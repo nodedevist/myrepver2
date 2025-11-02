@@ -15,6 +15,8 @@
 #ifndef BLAKE2_IMPL_H
 #define BLAKE2_IMPL_H
 
+
+
 #include <stdint.h>
 #include <string.h>
 
